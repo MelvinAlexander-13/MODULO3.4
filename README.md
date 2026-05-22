@@ -18,12 +18,12 @@
 - Enterprise software development
 - MVC architecture
 - Technical documentation
-- Database design
+- Database systems
 - Backend development
-- Academic systems
-- Inventory management systems
+- Academic management systems
+- Inventory control systems
 
-📚 Constantly learning new technologies and improving software engineering practices.
+📚 Constantly learning and improving software engineering practices.
 
 ---
 
@@ -33,102 +33,140 @@
 
 ## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/SQL" target="_blank">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
 
 ---
 
 ## ⚙️ Frameworks & Technologies
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</a>
+
+<a href="https://www.thymeleaf.org/" target="_blank">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+</a>
+
+<a href="https://httpd.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
 
 ---
 
 ## 🛠️ Development Tools
 
-![NetBeans](https://img.shields.io/badge/NetBeans_IDE_15-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://netbeans.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/NetBeans_IDE_15-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</a>
+
+<a href="https://app.diagrams.net/" target="_blank">
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 📂 Academic & Software Projects
+# 📂 Featured Projects
 
 ## 🏫 Student Enrollment Management System
-Academic administration platform using:
+Academic platform developed with:
 - Java
 - Spring Boot
 - PostgreSQL
-- MVC architecture
+- MVC Architecture
 
-Features:
-- Student management
-- Enrollment registration
-- Academic control
-- Reports generation
+### Features
+✔ Student management  
+✔ Enrollment process  
+✔ Academic administration  
+✔ Report generation  
 
 ---
 
 ## 📦 Inventory Control System
-Inventory management project focused on:
+Software project focused on:
+- Inventory organization
+- Technical documentation
+- Requirement analysis
 - Documentation standards
-- Technical analysis
-- Information organization
-- IEEE & W3C practices
+
+### Applied Standards
+- IEEE 830
+- IEEE 1016
+- WCAG 2.1
 
 ---
 
 ## 🍽️ Institutional Food Payment System
-Administrative system for:
-- Payment management
+Administrative system designed for:
+- Payment control
 - Ticket generation
-- Parent/student control
-- Institutional financial processes
+- Student management
+- Financial administration
 
 ---
 
 # 📖 Documentation & Standards
 
-📑 Experience working with:
-- IEEE 830
-- IEEE 1016
-- WCAG 2.1
-- Software documentation structures
-- User manuals
-- Technical manuals
-- Requirement gathering
-
----
-
-# 🧠 Software Engineering Interests
-
 <div align="center">
 
-| Area | Focus |
+| Standard | Purpose |
 |---|---|
-| 🏗️ Architecture | MVC & enterprise structures |
-| 🗄️ Databases | PostgreSQL optimization |
-| 🌐 Web Development | Dynamic systems |
-| 📑 Documentation | Professional documentation |
-| 🔐 Backend | APIs & business logic |
-| 🎨 UI Design | Structured interfaces |
+| IEEE 830 | Software Requirements |
+| IEEE 1016 | Software Design |
+| WCAG 2.1 | Web Accessibility |
+| ISO Standards | Quality & Best Practices |
 
 </div>
 
@@ -151,44 +189,37 @@ Administrative system for:
 ```txt
 ✔ Spring Boot MVC
 ✔ PostgreSQL Integration
-✔ Software Documentation
+✔ Technical Documentation
 ✔ Git & GitHub
-✔ Database Modeling
-✔ Technical Analysis
+✔ Database Design
 ✔ Backend Development
 🔄 REST APIs
 🔄 Spring Security
-🔄 Advanced Software Architecture
+🔄 Software Architecture
 ```
 
 ---
 
-# 🌍 Location
+# 🌎 Connect With Me
 
-📍 San Salvador, El Salvador
+<div align="center">
 
----
+<a href="https://github.com/MelvinAlexander-13" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 🤝 Teamwork & Professional Skills
-
-✅ Technical leadership  
-✅ Collaborative work  
-✅ Technical writing  
-✅ Academic project planning  
-✅ Software organization  
-✅ Documentation analysis  
-✅ Problem solving  
+</div>
 
 ---
 
 # 🎯 Professional Vision
 
-> “Develop software solutions with professional structure, scalability and real-world impact.”
+> “Build scalable, organized and professional software solutions for real-world environments.”
 
 ---
 
 <div align="center">
 
-## 🔥 “Code. Document. Improve. Repeat.”
+## 🔥 Code • Structure • Document • Improve
 
 </div>

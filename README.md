@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 MELVIN ALEXANDER
+#  MELVIN ALEXANDER
 ### 💻 Software Development Student | 3rd Year
 ### 🇸🇻 El Salvador
 
@@ -10,11 +10,11 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-🎓 Third-year Software Development student passionate about building structured, scalable and professional systems.
+Third-year Software Development student passionate about building structured, scalable and professional systems.
 
-🧠 Focused on:
+Focused on:
 - Enterprise software development
 - MVC architecture
 - Technical documentation
@@ -23,15 +23,15 @@
 - Academic management systems
 - Inventory control systems
 
-📚 Constantly learning and improving software engineering practices.
+Constantly learning and improving software engineering practices.
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <a href="https://www.oracle.com/java/" target="_blank">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -59,7 +59,7 @@
 
 ---
 
-## ⚙️ Frameworks & Technologies
+##  Frameworks & Technologies
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -83,7 +83,7 @@
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -95,7 +95,7 @@
 
 ---
 
-## 🛠️ Development Tools
+##  Development Tools
 
 <a href="https://netbeans.apache.org/" target="_blank">
 <img src="https://img.shields.io/badge/NetBeans_IDE_15-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
@@ -117,9 +117,9 @@
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 🏫 Student Enrollment Management System
+##  Student Enrollment Management System
 Academic platform developed with:
 - Java
 - Spring Boot
@@ -134,7 +134,7 @@ Academic platform developed with:
 
 ---
 
-## 📦 Inventory Control System
+##  Inventory Control System
 Software project focused on:
 - Inventory organization
 - Technical documentation
@@ -148,7 +148,7 @@ Software project focused on:
 
 ---
 
-## 🍽️ Institutional Food Payment System
+##  Institutional Food Payment System
 Administrative system designed for:
 - Payment control
 - Ticket generation
@@ -157,7 +157,7 @@ Administrative system designed for:
 
 ---
 
-# 📖 Documentation & Standards
+#  Documentation & Standards
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Administrative system designed for:
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Administrative system designed for:
 
 ---
 
-# 🚀 Current Learning Journey
+#  Current Learning Journey
 
 ```txt
 ✔ Spring Boot MVC
@@ -200,7 +200,7 @@ Administrative system designed for:
 
 ---
 
-# 🌎 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -212,7 +212,7 @@ Administrative system designed for:
 
 ---
 
-# 🎯 Professional Vision
+# Professional Vision
 
 > “Build scalable, organized and professional software solutions for real-world environments.”
 
@@ -220,6 +220,6 @@ Administrative system designed for:
 
 <div align="center">
 
-## 🔥 Code • Structure • Document • Improve
+##  Code • Structure • Document • Improve
 
 </div>

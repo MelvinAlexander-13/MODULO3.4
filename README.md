@@ -176,7 +176,7 @@ Administrative system designed for:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelvinAlexander-13&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://res.cloudinary.com/dtzftfgaa/image/upload/f_auto,q_auto/ChatGPT_Image_25_may_2026_11_08_01_a.m._sznpgi)
 
 ![Top Languages](https://res.cloudinary.com/dtzftfgaa/image/upload/f_auto,q_auto/ESTANDARES_IEEEE_ISO_W3C_sw0fer)
 
